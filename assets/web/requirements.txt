@@ -1,0 +1,4 @@
+Flask
+pytube
+requests
+beautifulsoup4
