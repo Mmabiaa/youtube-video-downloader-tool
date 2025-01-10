@@ -1,0 +1,10 @@
+youtube_downloader/
+│
+├── app.py                 # Main Flask application
+├── static/                # Directory for static files (CSS, JS)
+│   └── styles.css         # CSS file for styling
+├── templates/             # Directory for HTML templates
+│   ├── index.html         # Main page template
+│   └── result.html        # Result page template
+├── requirements.txt       # Dependencies
+└── README.md              # Project documentation
