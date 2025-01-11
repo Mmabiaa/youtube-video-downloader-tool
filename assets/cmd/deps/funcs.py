@@ -1,6 +1,5 @@
 import os
 from pytubefix import YouTube, Playlist
-from pytubefix.cli import on_progress
 # moved download_video to funcs.py
 # function returns 1 if download is successful, 0 if aborted, -1 if error
 

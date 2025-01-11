@@ -1,4 +1,3 @@
-## TODO: UPDATE README
 
 # YouTube Video Downloader Tool
 
