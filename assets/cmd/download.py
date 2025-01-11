@@ -1,6 +1,6 @@
 from deps.funcs import download_video 
 import argparse
-# changed usable library to pytubefix since YEAH
+# changed usable library to pytubefix since it is more stable
 
 def main() -> None:
     # added argument parser
