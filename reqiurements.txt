@@ -1,4 +1,4 @@
 Flask
-pytube
+pytubefix
 requests
 beautifulsoup4
