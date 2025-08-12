@@ -1,4 +1,3 @@
-
 # YouTube Video Downloader Tool
 
 A versatile tool to download YouTube videos, audio, and subtitles using Python. This project includes both a command-line interface (CLI) and a Flask web application for user-friendly access.
